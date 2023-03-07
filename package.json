@@ -1,0 +1,26 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "用javascript解决算法问题，练习数据结构",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dahu0712/javascript-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dahu0712/javascript-algorithms/issues"
+  },
+  "homepage": "https://github.com/dahu0712/javascript-algorithms#readme",
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
